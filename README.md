@@ -1,1 +1,1 @@
-# ilk-denemem
+Bu benim ilk Github denemem
